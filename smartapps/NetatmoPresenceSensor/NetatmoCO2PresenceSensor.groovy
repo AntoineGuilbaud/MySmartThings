@@ -1,5 +1,5 @@
 definition(
-    name: "Netatmo Presence Sensor",
+    name: "Netatmo CO2 Presence Sensor",
     namespace: "ag",
     author: "Antoine Guilbaud",
     description: "switch on a virtual switch if the value of a custom attribute is above or equals the specified threshold",
