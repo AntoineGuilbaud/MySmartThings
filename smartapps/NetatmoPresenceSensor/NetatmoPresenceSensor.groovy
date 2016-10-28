@@ -1,6 +1,6 @@
 definition(
     name: "Netatmo Presence Sensor",
-    namespace: "ag	",
+    namespace: "ag",
     author: "Antoine Guilbaud",
     description: "switch on a virtual switch if the value of a custom attribute is above or equals the specified threshold",
     category: "Convenience",
